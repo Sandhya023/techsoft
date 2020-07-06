@@ -9,7 +9,7 @@ export class CourseFeaturedComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(): void { 
   }
 
 }
